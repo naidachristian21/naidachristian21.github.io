@@ -1,8 +1,8 @@
 body {
     font-family: Avenir, serif;
     font-size: medium;
-    margin: 10;
     padding: 0;
     background-color: white;
     text-align: center;
+    max-width: 100%;
 }
